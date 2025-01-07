@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-07T20:06:24 IST" name="Default suite" finished-at="2025-01-07T20:06:38 IST" duration-ms="13279">
+    <groups>
+    </groups>
+    <test started-at="2025-01-07T20:06:24 IST" name="Default test" finished-at="2025-01-07T20:06:38 IST" duration-ms="13279">
+      <class name="practice.ActionLearning">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:practice.ActionLearning@591e58fa]" started-at="2025-01-07T20:06:24 IST" name="Setup" finished-at="2025-01-07T20:06:24 IST" duration-ms="201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method is-config="true" signature="Login(java.lang.reflect.Method)[pri:0, instance:practice.ActionLearning@591e58fa]" started-at="2025-01-07T20:06:24 IST" name="Login" finished-at="2025-01-07T20:06:27 IST" duration-ms="2769" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void practice.ActionLearning.Amazon()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Amazon()[pri:0, instance:practice.ActionLearning@591e58fa]" started-at="2025-01-07T20:06:27 IST" name="Amazon" finished-at="2025-01-07T20:06:34 IST" duration-ms="6677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Amazon -->
+        <test-method is-config="true" signature="end(java.lang.reflect.Method)[pri:0, instance:practice.ActionLearning@591e58fa]" started-at="2025-01-07T20:06:34 IST" name="end" finished-at="2025-01-07T20:06:36 IST" duration-ms="2455" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void practice.ActionLearning.Amazon()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:practice.ActionLearning@591e58fa]" started-at="2025-01-07T20:06:36 IST" name="tearDown" finished-at="2025-01-07T20:06:38 IST" duration-ms="1328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- practice.ActionLearning -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
