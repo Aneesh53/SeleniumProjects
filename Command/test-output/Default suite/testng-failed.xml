@@ -3,15 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="sunnexttest1.Basicfunctionality1">
+      <class name="practice.ActionLearning">
         <methods>
           <include name="end"/>
-          <include name="debug"/>
-          <include name="Setup"/>
           <include name="tearDown"/>
+          <include name="Setup"/>
+          <include name="MultipleWindows"/>
           <include name="Login"/>
         </methods>
-      </class> <!-- sunnexttest1.Basicfunctionality1 -->
+      </class> <!-- practice.ActionLearning -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
